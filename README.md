@@ -1,2 +1,2 @@
 # projects
-A Collection of Data Science Projects
+A Collection of Data Science Projects from my time at General Assembly
